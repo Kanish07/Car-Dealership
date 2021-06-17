@@ -1,2 +1,2 @@
 # Car-Dealership
-Car Dealership Website made with AngularJS and Spring
+Car Dealership Website made with JAVA Spring
